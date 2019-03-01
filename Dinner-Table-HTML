@@ -4,6 +4,9 @@
         <meta charset="utf-8">
         <title>YamaSushi Portland Menu</title>
     </head>
+    
+    <!-- Yama Sushi is at 2038 SE Clinton St. in Portland, OR -->
+    
     <body>
     
         <h1>Yama-Sushi Ramen Menu</h1>
